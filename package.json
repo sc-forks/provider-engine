@@ -1,5 +1,5 @@
 {
-  "name": "web3-provider-engine",
+  "name": "web3-provider-engine-sc",
   "version": "14.2.0",
   "description": "",
   "repository": "https://github.com/MetaMask/provider-engine",
@@ -28,7 +28,7 @@
     "ethereumjs-block": "^1.2.2",
     "ethereumjs-tx": "^1.2.0",
     "ethereumjs-util": "^5.1.5",
-    "ethereumjs-vm": "^2.3.4",
+    "ethereumjs-vm-sc": "https://github.com/sc-forks/ethereumjs-vm-sc.git",
     "json-rpc-error": "^2.0.0",
     "json-stable-stringify": "^1.0.1",
     "promise-to-callback": "^1.0.0",
