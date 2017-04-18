@@ -20,7 +20,7 @@
     "ethereumjs-block": "^1.2.2",
     "ethereumjs-tx": "^1.2.0",
     "ethereumjs-util": "^5.1.1",
-    "ethereumjs-vm-sc": "https://github.com/sc-forks/ethereumjs-vm-sc.git",
+    "ethereumjs-vm": "https://github.com/sc-forks/ethereumjs-vm-sc.git",
     "fetch-ponyfill": "^4.0.0",
     "json-rpc-error": "^2.0.0",
     "promise-to-callback": "^1.0.0",
